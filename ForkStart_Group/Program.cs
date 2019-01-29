@@ -23,7 +23,7 @@ namespace ForkStart_Group
 
             Console.Writeline("This is Naman Rastogi from Group 1");
 
-            // team member C's content goes here
+            Console.Writeline("This is Rohit Kumar from Group 1");
 
             Console.ReadKey();
     }
