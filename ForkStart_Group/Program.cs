@@ -21,7 +21,7 @@ namespace ForkStart_Group
 
             Console.WriteLine("This is Pratik Utpat from Group 1");
 
-            // team member B's content goes here
+            Console.Writeline("This is Naman Rastogi from Group 1");
 
             // team member C's content goes here
 
